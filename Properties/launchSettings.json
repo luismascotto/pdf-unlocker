@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PdfUnlocker": {
+      "commandName": "Project",
+      "commandLineArgs": "--help"
+    }
+  }
+}
