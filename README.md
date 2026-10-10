@@ -96,6 +96,10 @@ Windows passes the file path as the first argument, which matches the default CL
 - Uses PDFsharp for decrypt/save. Most user-password bills work; unusual owner-password-only or exotic encryption cases may fail.
 - Does not remove DRM beyond standard PDF user/owner open passwords.
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
